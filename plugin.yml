@@ -1,0 +1,5 @@
+name: Disenchant
+main: me.dpedu.disenchant.Disenchant
+version: 1.0
+description: Disenchant items by right clicking the item in a crafting table
+commands:
